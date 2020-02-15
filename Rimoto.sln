@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDb", "RemoteDb\RemoteDb.csproj", "{A9C6EE00-A819-486E-AE55-E1F700684833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rimotoCli", "rimotoCli\rimotoCli.csproj", "{B1F47DC1-656B-4199-805B-1B2DD74BAA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rimotoGui", "rimotoGui\rimotoGui.csproj", "{E67E66B4-1E36-4FB1-B7C8-B6FBDB8B1CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C6EE00-A819-486E-AE55-E1F700684833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C6EE00-A819-486E-AE55-E1F700684833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C6EE00-A819-486E-AE55-E1F700684833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C6EE00-A819-486E-AE55-E1F700684833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F47DC1-656B-4199-805B-1B2DD74BAA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F47DC1-656B-4199-805B-1B2DD74BAA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F47DC1-656B-4199-805B-1B2DD74BAA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F47DC1-656B-4199-805B-1B2DD74BAA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67E66B4-1E36-4FB1-B7C8-B6FBDB8B1CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67E66B4-1E36-4FB1-B7C8-B6FBDB8B1CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67E66B4-1E36-4FB1-B7C8-B6FBDB8B1CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67E66B4-1E36-4FB1-B7C8-B6FBDB8B1CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

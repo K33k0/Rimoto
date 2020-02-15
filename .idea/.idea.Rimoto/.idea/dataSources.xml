@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rimoto@37.187.113.74 [2]" uuid="2c04ee48-4a3b-4e16-b9b9-656ad4e33b0b">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://37.187.113.74:3306/Rimoto</jdbc-url>
+    </data-source>
+  </component>
+</project>
