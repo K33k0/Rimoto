@@ -7,5 +7,11 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://37.187.113.74:3306/Rimoto</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="SQLite - com.plexapp.plugins.library.db" uuid="76be63f7-fca9-462c-97b1-27ece5fdf3d0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$USER_HOME$/AppData/Local/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.db</jdbc-url>
+    </data-source>
   </component>
 </project>

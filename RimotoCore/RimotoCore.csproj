@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Plex\Plex.csproj" />
+    <ProjectReference Include="..\Radarr\Radarr.csproj" />
+    <ProjectReference Include="..\Sonarr\Sonarr.csproj" />
+  </ItemGroup>
+
+</Project>
